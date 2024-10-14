@@ -20,4 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Shopper"
-include(":app")
+include(":presentation")
+include(":data")
+include(":domin")
